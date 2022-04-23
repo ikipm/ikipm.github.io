@@ -10,21 +10,21 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
+theme                  : "minimal-mistakes-jekyll"
+#remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-EN"
 title                    : "Ikipm"
 title_separator          : "-"
-name                     : "Iker Pérez"
+name                     : "Ikipm"
 description              : "Posts about programming, usualy related to backend and some security."
 url                      : "https://ikipm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ikipm/ikipm.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/ikipm.png"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/ikipmTeaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ikipm"
+  name             : "Iker Pérez"
   avatar           : "/assets/images/ikipm.jpg"
   bio              : "Junior developer. Constantly learning."
   location         : "Spain"
