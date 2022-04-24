@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/chemistry/atom.jpg
   teaser_home_page: true
-  icon: /assets/images/chemistry/atom.jpg
+  icon: /assets/images/programmingLanguages/python.png
 categories:
   - chemistry
   - python
