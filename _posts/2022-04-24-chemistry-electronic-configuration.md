@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quemistry electronic configuration python script
+title: Chemistry electronic configuration python script
 excerpt: "A script that automates the electronic configuration of the elements."
 date: 2022-04-24
 classes: wide
