@@ -5,9 +5,9 @@ excerpt: "SafeClick. Cybersecurity courses in Catalan, Spanish and English."
 date: 2023-12-09
 classes: wide
 header:
-  teaser: [/assets/images/chemistry/atom.jpg](https://safeclick.cat/img/logo.webp)
+  teaser: https://safeclick.cat/img/logo.webp
   teaser_home_page: true
-  icon: [/assets/images/programmingLanguages/python.png](https://safeclick.cat/img/logo.webp)
+  icon: https://safeclick.cat/img/logo.webp
 categories:
   - cybersecurity
 tags:  
