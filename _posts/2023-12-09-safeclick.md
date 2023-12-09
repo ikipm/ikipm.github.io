@@ -42,6 +42,6 @@ Ready to embark on a journey that could redefine your digital experience? Visit 
 
 Website: [SafeClick.cat](https://safeclick.cat)\
 More info: info@safeclick.cat\
-Instagram: [SafeClick Instagram](https://www.instagram.com/safeclick.cat/)\
+Instagram: [SafeClick Instagram](https://www.instagram.com/safeclick.cat/)
 
 ```
