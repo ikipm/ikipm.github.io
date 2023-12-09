@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SafeClick | Cybersecurity courses 
+title: SafeClick - Cybersecurity courses 
 excerpt: "SafeClick. Cybersecurity courses in Catalan, Spanish and English."
 date: 2023-12-09
 classes: wide
@@ -13,7 +13,8 @@ categories:
 tags:  
   - courses
 ---
-# SafeClic.cat
+# SafeClick.cat
+Website: [SafeClick.cat](https://safeclick.cat)
 
 🔐 Unlock the World of Cybersecurity with SafeClick! 🚀
 
@@ -39,8 +40,8 @@ Connect with like-minded individuals, share insights, and stay updated on the la
 
 Ready to embark on a journey that could redefine your digital experience? Visit SafeClick.cat today, and let the adventure begin! Your online safety is our top priority, and SafeClick is here to guide you every click of the way. 🚀🔒
 
-Website: https://safeclick.cat
-More info: info@safeclick.cat
-Instagram: https://www.instagram.com/safeclick.cat/
+Website: [SafeClick.cat](https://safeclick.cat)\
+More info: info@safeclick.cat\
+Instagram: [SafeClick Instagram](https://www.instagram.com/safeclick.cat/)\
 
 ```
